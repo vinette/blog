@@ -29,7 +29,7 @@ define('DB_USER', 'user2M8');
 define('DB_PASSWORD', 'Bhm4PWmfNjygykDh');
 
 /** MySQL主机 */
-define('DB_HOST', 'mysql://mysql:3306/');
+define('DB_HOST', 'mysql.vinette.svc');
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8mb4');
