@@ -20,38 +20,23 @@
 
 // ** MySQL 设置 - 具体信息来自您正在使用的主机 ** //
 /** WordPress数据库的名称 */
-// define('DB_NAME', 'wordpress2');
-
-// /** MySQL数据库用户名 */
-// define('DB_USER', 'root');
-
-// /** MySQL数据库密码 */
-// define('DB_PASSWORD', 'root');
-
-/** MySQL主机 */
-// define('DB_HOST', 'localhost');
-
-// /** 创建数据表时默认的文字编码 */
-// define('DB_CHARSET', 'utf8mb4');
-
-// /** 数据库整理类型。如不确定请勿更改 */
-// define('DB_COLLATE', '');
-define('DB_NAME', 'dergondoqdh4rt');
+define('DB_NAME', 'sampledb');
 
 /** MySQL数据库用户名 */
-define('DB_USER', 'rdoqdjrodfktzc');
+define('DB_USER', 'user2M8');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', 'c2e538a58e7fb1878cd4ca61268303f728fa94c7cf211d2825f3ab515e36b350');
+define('DB_PASSWORD', 'Bhm4PWmfNjygykDh');
 
 /** MySQL主机 */
-define('DB_HOST', 'ec2-184-73-236-170.compute-1.amazonaws.com');
+define('DB_HOST', 'mysql://mysql:3306/');
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8mb4');
 
 /** 数据库整理类型。如不确定请勿更改 */
 define('DB_COLLATE', '');
+
 /**#@+
  * 身份认证密钥与盐。
  *
